@@ -6,11 +6,11 @@ See [here](http://www.nla.gov.au/blogs/trove/2014/04/17/harvesting-radio-nationa
 
 ##Data available
 
-###2014
+###2000 - 2014
 
-* AM (current affairs) -- one record per segment -- [am-2014.csv](https://github.com/wragge/radio-national-data/blob/master/2014/am-2014.csv)
-* The World Today -- one record per segment -- [world-today.csv](https://github.com/wragge/radio-national-data/blob/master/2014/world-today-2014.csv)
-* PM (to come soon)
+* AM (current affairs) -- one record per segment
+* The World Today (current affairs) -- one record per segment
+* PM (current affairs) -- one record per segment
 
 ##Format
 
