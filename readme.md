@@ -6,6 +6,10 @@ See [here](http://www.nla.gov.au/blogs/trove/2014/04/17/harvesting-radio-nationa
 
 ##Data available
 
+###All years
+
+* Complete dump of ABC Radio National records in Trove up to 31/12/2014 -- abcrn-all.csv
+
 ###2000 - 2014
 
 * AM (current affairs) -- one record per segment
@@ -19,7 +23,7 @@ CSV files with the following fields:
 * title
 * contributor (multiple values separate by semicolons)
 * date (YYYY-MM-DD)
-* isPartOf (program title)
+* isPartOf (program title -- see programs.txt for a complete list)
 * abstract
 * subject (multiple values separate by semicolons)
 * publisher
