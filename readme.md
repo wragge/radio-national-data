@@ -8,7 +8,7 @@ See [here](http://www.nla.gov.au/blogs/trove/2014/04/17/harvesting-radio-nationa
 
 ###All years
 
-* A complete dump of ABC Radio National records in Trove up to 31/12/2014 is available here -- abcrn-all.zip
+* A complete dump of ABC Radio National records in Trove up to 31/12/2014 is available here -- [abcrn-all.zip](https://www.dropbox.com/s/hz47x5fdx5q51e1/abcrn-all.zip?dl=0)
 
 ###2000 - 2014 ([on GitHub](https://github.com/wragge/radio-national-data))
 
@@ -23,7 +23,7 @@ CSV files with the following fields:
 * title
 * contributor (multiple values separate by semicolons)
 * date (YYYY-MM-DD)
-* isPartOf (program title -- see programs.txt for a complete list)
+* isPartOf (program title -- see [programs.txt](https://github.com/wragge/radio-national-data/blob/master/programs.txt) for a complete list)
 * abstract
 * subject (multiple values separate by semicolons)
 * publisher
