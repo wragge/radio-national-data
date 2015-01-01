@@ -8,7 +8,7 @@ See [here](http://www.nla.gov.au/blogs/trove/2014/04/17/harvesting-radio-nationa
 
 ###All years
 
-* A complete dump of ABC Radio National records in Trove up to 31/12/2014 is available here -- [abcrn-all.zip](https://www.dropbox.com/s/hz47x5fdx5q51e1/abcrn-all.zip?dl=0)
+* A complete dump of ABC Radio National records in Trove up to 31/12/2014 is available here -- [abcrn-all.zip](https://www.dropbox.com/s/hz47x5fdx5q51e1/abcrn-all.zip?dl=0) (37mb)
 
 ###2000 - 2014 ([on GitHub](https://github.com/wragge/radio-national-data))
 
