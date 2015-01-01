@@ -27,3 +27,7 @@ CSV files with the following fields:
 * url (link to ABC website)
 * troveUrl (link to Trove record)
 
+##Example apps
+
+* [In a word...](http://inaword.dhistory.org/)
+
