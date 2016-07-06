@@ -8,9 +8,9 @@ See [here](http://www.nla.gov.au/blogs/trove/2014/04/17/harvesting-radio-nationa
 
 ###All years
 
-* A complete dump of ABC Radio National records in Trove up to 6 July 2016 is available here -- [abcrn-all.zip](https://www.dropbox.com/s/hz47x5fdx5q51e1/abcrn-all.zip?dl=0) (37mb)
+* A complete dump of ABC Radio National records in Trove up to 6 July 2016 is available here -- [abcrn-all.zip](https://github.com/wragge/radio-national-data/blob/master/abcrn-all.zip?raw=true) (37mb)
 
-###2000 - 2015 ([on GitHub](https://github.com/wragge/radio-national-data))
+###2000 - July 2016 ([on GitHub](https://github.com/wragge/radio-national-data))
 
 * AM (current affairs) -- one record per segment
 * The World Today (current affairs) -- one record per segment
@@ -38,5 +38,5 @@ CSV files with the following fields:
 ##More information
 
 * [GitHub repository](https://github.com/wragge/radio-national-data)
-* Compiled by [Tim Sherratt](http://discontents.com.au/about-me) ([@wragge](http://twitter.com/wragge))
+* Compiled by [Tim Sherratt](https://timsherratt.org) ([@wragge](http://twitter.com/wragge))
 
